@@ -1,9 +1,5 @@
 <!doctype html>
-
-<html lang="pt">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+<html>
   <title>Página Simples com Mídia</title>
   <style>
     body{font-family:Arial,Helvetica,sans-serif;padding:20px;background:#f9f9f9;text-align:center}
