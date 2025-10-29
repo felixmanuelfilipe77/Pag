@@ -1,10 +1,7 @@
 <!doctype html>
 <html>
   <title>Página Simples com Mídia</title>
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;padding:20px;background:#f9f9f9;text-align:center}
-    img,video,audio{margin-top:15px;max-width:90%;border-radius:8px}
-  </style>
+ 
 </head>
 <body>
   <h1>Página HTML Simples</h1>
